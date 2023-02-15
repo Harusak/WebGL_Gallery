@@ -2,3 +2,7 @@ Build/Build.data filter=lfs diff=lfs merge=lfs -text
 Build/Build.framework.js filter=lfs diff=lfs merge=lfs -text
 Build/Build.loader.js filter=lfs diff=lfs merge=lfs -text
 Build/Build.wasm filter=lfs diff=lfs merge=lfs -text
+Build/WebGL.data.unityweb filter=lfs diff=lfs merge=lfs -text
+Build/WebGL.framework.js.unityweb filter=lfs diff=lfs merge=lfs -text
+Build/WebGL.loader.js filter=lfs diff=lfs merge=lfs -text
+Build/WebGL.wasm.unityweb filter=lfs diff=lfs merge=lfs -text
